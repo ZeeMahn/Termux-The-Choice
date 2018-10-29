@@ -13,7 +13,9 @@ Installation :
 
 5: chmod +x *
 
+6: ./start.sh
+
 To Run the script:
 
-$ ./start.sh
+1: ./start_thechoice.sh
 ___________________________________________________________________
